@@ -1,0 +1,74 @@
+/* You can add global styles to this file, and also import other style files */
+*{ box-sizing: border-box; padding: 0;
+    margin: 0;  }
+body { overflow: hidden; font-family: Montserrat, sans-serif; height: 100vh;} 
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: unset;
+    font-family: Montserrat, sans-serif;
+    font-weight: unset;
+    line-height: unset;
+    color: #45563f;
+    font-size: 19px;
+
+}
+.btn-primary {
+    background-color: #f4e642 !important;
+    color: #8e8269 !important;
+}
+.btn-primary:not([disabled]):not(.disabled).active, .btn-primary:not([disabled]):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+    background-color: #fff !important;
+}
+.btn-primary.dropdown-toggle {
+    background-color: #f4e642 !important;
+    color: #8e8269 !important;
+}
+
+.btn-primary.dropdown-toggle:focus{
+     background-color: #fff !important;
+}
+
+.btn-primary.dropdown-toggle:hover, .btn-primary.dropdown-toggle:focus {
+    background-color: #fff !important;
+
+}
+
+.btn-primary.dropdown-toggle  :active{
+    background-color: #fff !important;
+}
+.btn-primary.dropdown-toggle  :hover{
+    background-color: #fff !important;
+}
+.btn-primary.dropdown-toggle  :focus{
+    background-color: #fff !important;
+}
+
+.btn-primary :active{
+    background-color: #fff !important;
+}
+.btn-primary :hover{
+    background-color: #fff !important;
+}
+.btn-primary :focus{
+    background-color: #fff !important;
+}
+
+a{
+    color: #4c4949;
+}
+
+a:hover {
+    color: #000;
+}
+
+.heading{
+    color: #ffffff;
+    background-color: #ffef34;
+    display: inline;
+    text-shadow: -2px -2px #c2b95a;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+

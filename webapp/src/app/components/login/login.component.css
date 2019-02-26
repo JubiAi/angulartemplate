@@ -1,0 +1,67 @@
+.main-login{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    font-family: Montserrat;
+    padding-top: 40vh;
+}
+.left-login{
+	width: 50%;
+    float: left;
+}
+
+.right-login{
+	width: 50%;
+    float: right;
+
+}
+
+.parrot-image{
+	width:100px;
+}
+
+.login-button{
+	margin: auto;
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    margin: 9px;
+}
+
+.button-block{
+	    padding-top: 4vh;
+	    padding-bottom: 4vh;
+        border-left: #eee solid 2px;
+        float:left;
+        width: 60%;
+}
+
+.head-block{
+    float:right;
+    width: 60%;
+}
+
+
+.sub-heading{
+	color: #8e8e8e;
+    letter-spacing: 3px;
+    font-weight: 300;
+    font-size: 1.5em;
+}
+
+.main-heading{
+    z-index: 100;
+    color: #000;
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto;
+}
+.div-heading{
+    background-color: #ffef34;
+    height: 22px;
+    width: 29%;
+    position: absolute;
+    margin: 22px 0px 0px 0px;
+    z-index: -99;
+}

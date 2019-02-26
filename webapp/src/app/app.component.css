@@ -1,0 +1,73 @@
+.app-main{
+    width:100%
+}
+.app-projects{
+    float: left;
+    width: 100%;
+}
+.remove{
+    display: none;
+}
+.show{
+    display:block;
+}
+.navigation{
+    float: left;
+    width: 33%;    
+    height: 90vh;
+    box-shadow: 0px 3px 8px 0 #ccc;
+    /* padding: 0px 0px 0px 5px; */
+}
+.workstation{
+    float:left;  
+    overflow: scroll;
+    height: 90vh;
+}
+.s{
+    width:60%;  
+
+}
+.m{
+    width:67%;
+}
+
+.l{
+    width:100%;
+}
+.chatbot{
+    float:right;
+    width: 20%;
+    height: 79vh;
+}
+
+
+::-webkit-scrollbar { width: 3px; height: 5px;}
+::-webkit-scrollbar-track { background: rgb(236, 236, 236); }
+::-webkit-scrollbar-thumb { background: #888; }
+::-webkit-scrollbar-thumb:hover { background: #555; }
+
+header { height: auto;
+    background: #fff;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #ebebeb;
+    /* -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15); */
+    /* box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15); min-height: 47px;position: relative; */
+    z-index: 9;
+    height: 10vh;
+    padding: 15px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
